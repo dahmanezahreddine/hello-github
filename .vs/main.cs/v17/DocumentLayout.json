@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\zahre\\OneDrive\\Bureau\\Nouveau dossier (8)\\main.cs\\",
+  "WorkspaceRootPath": "C:\\Users\\zahre\\OneDrive\\Bureau\\Quiz Modul 9\\main.cs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0BBA89F0-7557-4A01-8B6D-973D29DE71FA}|main.cs.csproj|c:\\users\\zahre\\onedrive\\bureau\\nouveau dossier (8)\\main.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0BBA89F0-7557-4A01-8B6D-973D29DE71FA}|main.cs.csproj|c:\\users\\zahre\\onedrive\\bureau\\quiz modul 9\\main.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BBA89F0-7557-4A01-8B6D-973D29DE71FA}|main.cs.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BBA89F0-7557-4A01-8B6D-973D29DE71FA}|main.cs.csproj|c:\\users\\zahre\\onedrive\\bureau\\quiz modul 9\\main.cs\\main.cs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0BBA89F0-7557-4A01-8B6D-973D29DE71FA}|main.cs.csproj|solutionrelative:main.cs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,13 +66,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cs.csproj",
+              "DocumentMoniker": "C:\\Users\\zahre\\OneDrive\\Bureau\\Quiz Modul 9\\main.cs\\main.cs.csproj",
+              "RelativeDocumentMoniker": "main.cs.csproj",
+              "ToolTip": "C:\\Users\\zahre\\OneDrive\\Bureau\\Quiz Modul 9\\main.cs\\main.cs.csproj",
+              "RelativeToolTip": "main.cs.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-10T22:37:43.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\zahre\\OneDrive\\Bureau\\Nouveau dossier (8)\\main.cs\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\zahre\\OneDrive\\Bureau\\Quiz Modul 9\\main.cs\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\zahre\\OneDrive\\Bureau\\Nouveau dossier (8)\\main.cs\\Program.cs",
+              "ToolTip": "C:\\Users\\zahre\\OneDrive\\Bureau\\Quiz Modul 9\\main.cs\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T22:17:43.471Z",
               "EditorCaption": ""

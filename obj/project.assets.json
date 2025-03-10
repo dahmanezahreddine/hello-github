@@ -112,11 +112,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zahre\\OneDrive\\Bureau\\Nouveau dossier (8)\\main.cs\\main.cs.csproj",
+      "projectUniqueName": "C:\\Users\\zahre\\OneDrive\\Bureau\\Quiz Modul 9\\main.cs\\main.cs.csproj",
       "projectName": "main.cs",
-      "projectPath": "C:\\Users\\zahre\\OneDrive\\Bureau\\Nouveau dossier (8)\\main.cs\\main.cs.csproj",
+      "projectPath": "C:\\Users\\zahre\\OneDrive\\Bureau\\Quiz Modul 9\\main.cs\\main.cs.csproj",
       "packagesPath": "C:\\Users\\zahre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zahre\\OneDrive\\Bureau\\Nouveau dossier (8)\\main.cs\\obj\\",
+      "outputPath": "C:\\Users\\zahre\\OneDrive\\Bureau\\Quiz Modul 9\\main.cs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
